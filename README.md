@@ -1,2 +1,3 @@
-# flutter-voice-chat
-Voice chat application with flutter
+# flutter_voice_chat
+
+A new Flutter project.
